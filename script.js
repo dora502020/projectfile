@@ -1,4 +1,3 @@
-    <script>
         var icons = [];
         var iconStack = [];
         var currentIcons = [];
@@ -44343,4 +44342,3 @@
             // --- ربط النموذج بدالة التحقق من كلمة السر ---
             document.getElementById('passwordForm').addEventListener('submit', handlePasswordSubmit);
         });
-    </script>
